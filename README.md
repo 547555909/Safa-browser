@@ -26,3 +26,6 @@ Safa 浏览器是受到Safari 浏览器的启发而开发的一个安卓端浏�
 ## 联系我们
 
 官方Telegram群组：[Safa](https://t.me/safabrowser)
+
+## 已知bug
+- 下载时应用名称获取错误，下个版本解决
